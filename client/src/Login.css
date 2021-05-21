@@ -1,0 +1,13 @@
+.loginMessage {
+  text-align: center;
+  border: 0.1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  color: #1DB954;
+}
+
+p {
+  color: white;
+}
